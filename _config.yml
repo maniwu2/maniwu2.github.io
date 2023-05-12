@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Man I (Maggie) Wu"
 description              : "Portfolio!"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : maniwu2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : maniwu2 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : maniwu2/maniwu2.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Man I (Maggie) Wu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I'm currently a Robotics PhD candidate at the University of Michigan."
+  location         : "Ann Arbor, MI"
   email            :
   links:
     - label: "Email"
