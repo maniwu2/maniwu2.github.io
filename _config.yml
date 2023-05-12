@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Man I (Maggie) Wu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/headshot.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm currently a Robotics PhD candidate at the University of Michigan."
   location         : "Ann Arbor, MI"
   email            :
